@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/OCPday/blob/master/img.png" width="450" height="120">
+<img src="https://github.com/alfbach/OCPIntro/blob/main/img.png" width="450" height="120">
 
 
 # Red Hat OpenShift 4.x Introduction Day
@@ -9,17 +9,13 @@ In this repositiory you find the content of the event and usefull links to make 
 
 ## LINKS
 
-### Disconnected Install OpenShift 4.2
-
-https://blog.openshift.com/openshift-4-2-disconnected-install/
-
 ### OpenShift Learning
 
 https://learn.openshift.com
 
 ### OpenShift 4 Installer
 
-https://cloud.openshift.com
+https://console.redhat.com
 
 ### Git Reopsitory OpenShift
 
